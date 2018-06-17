@@ -1,0 +1,47 @@
+/* Global CSS */
+body {
+  padding-top: 5rem;
+}
+a{
+  color: #000;
+  text-decoration: none;
+}
+
+/* Header */
+.navbar{
+    background: #515c67 !important;
+    border-bottom: rgba(8, 178, 227, 1) 4px solid;
+}
+.nav-link{
+    color: #fff !important;
+}
+.nav-link:hover{
+    color: #fff !important;
+    text-decoration: underline;
+
+}
+
+/* Form */
+.regform, .card{
+  border: #000 4px dashed;
+}
+.form-text{
+  border-bottom: rgba(8, 178, 227, 1) 3px solid;
+}
+.form-control{
+  border-bottom: rgba(8, 178, 227, 1) 3px solid;
+}
+
+/* Custom Classes */
+.bg-footer{
+  background: rgb(81,92,103);
+  border-top: rgba(8, 178, 227, 1) 4px solid;
+}
+
+
+/* Media Queries */
+@media (max-width:600px) {
+    .mob-m{
+      margin-top: 15px;
+    }
+  }

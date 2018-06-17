@@ -1,0 +1,2 @@
+[27-Mar-2018 07:43:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/grapxcode/gharpesalon2.grapxcode.com/admin/inc/config.php on line 9
+[27-Mar-2018 07:44:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/grapxcode/gharpesalon2.grapxcode.com/admin/inc/config.php on line 9

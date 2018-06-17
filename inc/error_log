@@ -1,0 +1,19 @@
+[21-Apr-2018 11:52:00 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/gharpesalon/public_html/inc/logout_fb.php on line 11
+[21-Apr-2018 11:53:31 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/gharpesalon/public_html/inc/logout.php on line 7
+[21-Apr-2018 11:57:32 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/gharpesalon/public_html/inc/logout.php on line 7
+[21-Apr-2018 11:59:43 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/gharpesalon/public_html/inc/logout.php on line 7
+[21-Apr-2018 12:17:19 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/gharpesalon/public_html/inc/logout_fb.php on line 13
+[21-Apr-2018 13:28:27 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/gharpesalon/public_html/inc/logout_fb.php on line 13
+[21-Apr-2018 14:01:39 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/gharpesalon/public_html/inc/logout_fb.php on line 18
+[23-Apr-2018 18:19:11 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/gharpesalon/public_html/inc/logout.php on line 7
+[23-Apr-2018 18:19:55 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/gharpesalon/public_html/inc/logout.php on line 7
+[23-Apr-2018 19:20:47 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/gharpesalon/public_html/inc/logout.php on line 7
+[11-May-2018 10:08:00 UTC] PHP Warning:  mysqli::query(): Empty query in /home/gharpesalon/public_html/inc/login.php on line 8
+[11-May-2018 10:14:43 UTC] PHP Warning:  mysqli::query(): Empty query in /home/gharpesalon/public_html/inc/login.php on line 10
+[11-May-2018 10:15:37 UTC] PHP Warning:  mysqli::query(): Empty query in /home/gharpesalon/public_html/inc/login.php on line 10
+[11-May-2018 10:15:39 UTC] PHP Warning:  mysqli::query(): Empty query in /home/gharpesalon/public_html/inc/login.php on line 10
+[11-May-2018 10:16:08 UTC] PHP Warning:  mysqli::query(): Empty query in /home/gharpesalon/public_html/inc/login.php on line 10
+[11-May-2018 10:16:50 UTC] PHP Warning:  mysqli::query(): Empty query in /home/gharpesalon/public_html/inc/login.php on line 10
+[11-May-2018 10:16:58 UTC] PHP Warning:  mysqli::query(): Empty query in /home/gharpesalon/public_html/inc/login.php on line 10
+[11-May-2018 10:17:28 UTC] PHP Warning:  mysqli::query(): Empty query in /home/gharpesalon/public_html/inc/login.php on line 10
+[11-May-2018 10:18:25 UTC] PHP Warning:  mysqli::query(): Empty query in /home/gharpesalon/public_html/inc/login.php on line 11
